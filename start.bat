@@ -1,1 +1,1 @@
-git clone https://github.com/Miroslau/pinktada.git -b main
+git clone https://github.com/Miroslau/pinktdata-frontend.git -b main
