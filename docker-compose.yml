@@ -4,11 +4,11 @@ services:
   frontend:
     container_name: frontend
     build:
-      context: ./frontend
+      context: ./pinktdata-frontend
       dockerfile: Dockerfile
     environment:
       CHOKIDAR_USEPOLLING: "true"
     ports:
       - 3000:3000
     volumes:
-      - ./frontend/src:/app/src
+      - ./pinktdata-frontend/src:/app/src
