@@ -1,2 +1,5 @@
 /.idea
 .env
+/mongo-db
+/postgres-data
+/pinktdata-backend
