@@ -2,4 +2,5 @@
 .env
 /mongo-db
 /postgres-data
-/pinktdata-backend
+/pinktdata-frontend
+/pinktada-backend
