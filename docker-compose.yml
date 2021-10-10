@@ -8,8 +8,6 @@ services:
       dockerfile: Dockerfile
     environment:
       CHOKIDAR_USEPOLLING: "true"
-    ports:
-      - 3000:3000
     volumes:
       - ./pinktdata-frontend/src:/app/src
 
