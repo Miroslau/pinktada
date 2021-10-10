@@ -15,3 +15,8 @@ The master branch of the frontend repositories is clonded, inside it will alread
 ````
 
 use command: docker-compose up
+
+````
+After start project plese watch this video how to connect in your db:
+https://www.loom.com/share/74e5097423284ab795638854bc8b1572
+````
